@@ -1,0 +1,8 @@
+{
+  "name": "declarative-forms-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zeachco/declarative-forms-sandbox.git",
+  "author": "Olivier Rousseau-Guyot <olivier.rousseauguyot@shopify.com>",
+  "license": "MIT"
+}
