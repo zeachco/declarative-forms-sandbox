@@ -1,5 +1,6 @@
 {
   "name": "declarative-forms-sandbox",
+  "private": false,
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:zeachco/declarative-forms-sandbox.git",
