@@ -4,5 +4,18 @@
   "main": "index.js",
   "repository": "git@github.com:zeachco/declarative-forms-sandbox.git",
   "author": "Olivier Rousseau-Guyot <olivier.rousseauguyot@shopify.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.4.3"
+  },
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "dependencies": {
+    "@shopify/polaris": "^7.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
